@@ -995,3 +995,127 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 10363.213982 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animator Controllers/Base Controller.controller
+  artifactKey: Guid(62d9d5523b73c7d4d94fce94b9a8dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animator Controllers/Base Controller.controller using Guid(62d9d5523b73c7d4d94fce94b9a8dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4cbcb9d6cce66a9f571bee0491308de') in 0.261652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 576.075298 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Run_InPlace.fbx
+  artifactKey: Guid(1ec07217d678fd648b09c3b0006e6d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Run_InPlace.fbx using Guid(1ec07217d678fd648b09c3b0006e6d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd67f7681126455159920df841b1098c') in 0.073437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Walk_Crouching.fbx
+  artifactKey: Guid(a9d20530e2cd99c488b735598947692b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Walk_Crouching.fbx using Guid(a9d20530e2cd99c488b735598947692b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cd6225fd5d34a053b679400eef8d4c') in 0.009467 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Walk_Left.fbx
+  artifactKey: Guid(5c74bd6d11fd1ed4485f25b6c3491875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Walk_Left.fbx using Guid(5c74bd6d11fd1ed4485f25b6c3491875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55af212615a8122cb8d149aaff1c816d') in 0.011847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Running_Jump.fbx
+  artifactKey: Guid(e985297b9d6f3824a942a0296105fa4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Running_Jump.fbx using Guid(e985297b9d6f3824a942a0296105fa4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324263c25e7393db9b28dae9d21eb1ba') in 0.007256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Standing_Jump.fbx
+  artifactKey: Guid(9e6f2a6ec6dfb9743b48c89303657e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Standing_Jump.fbx using Guid(9e6f2a6ec6dfb9743b48c89303657e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85ad84105e0fef82e4a2628b820c93c') in 0.005213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Walk_InPlace_Female.fbx
+  artifactKey: Guid(6c7485a06ba038c4f92a8088e24315d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/Walk_InPlace_Female.fbx using Guid(6c7485a06ba038c4f92a8088e24315d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81cdb31ad74bfeecf96b4a46194598a0') in 0.004563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.132392 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/~$lk_Left.fbx
+  artifactKey: Guid(959ec40b4b78042b69a7ae471312b5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/~$lk_Left.fbx using Guid(959ec40b4b78042b69a7ae471312b5f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b302930a2c5c793dccc7aecc470ad8') in 0.030950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.677043 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animator Controllers/Base Controller.controller
+  artifactKey: Guid(62d9d5523b73c7d4d94fce94b9a8dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animator Controllers/Base Controller.controller using Guid(62d9d5523b73c7d4d94fce94b9a8dd7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76919b6a8a5ba995d74ec51e72e81047') in 0.024934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.430918 seconds.
+  path: Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/~$lk_Male.fbx
+  artifactKey: Guid(f6539d2689e1a4c8db59a4fb418d278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Animated People/- Animations/In Place/Locomotion/~$lk_Male.fbx using Guid(f6539d2689e1a4c8db59a4fb418d278b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02bf673d24b3c73d0b8ab9b2d4338275') in 0.033161 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001223 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f7a7000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Domain Reload Profiling:
+	ReloadAssembly (910ms)
+		BeginReloadAssembly (237ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (24ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (88ms)
+		EndReloadAssembly (603ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (238ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (249ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (43ms)
+				ProcessInitializeOnLoadAttributes (127ms)
+				ProcessInitializeOnLoadMethodAttributes (71ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (69.0 KB). Loaded Objects now: 4292.
+Memory consumption went from 189.7 MB to 189.6 MB.
+Total: 6.679834 ms (FindLiveObjects: 0.127792 ms CreateObjectMapping: 0.046209 ms MarkObjects: 6.389875 ms  DeleteObjects: 0.115125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1467.918867 seconds.
+  path: Assets/player_movement.cs
+  artifactKey: Guid(8cc91b7b5ba4b42d8a9d54f069c75afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/player_movement.cs using Guid(8cc91b7b5ba4b42d8a9d54f069c75afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66159d8acab14420103b22c8f7574e7d') in 1.429886 seconds 

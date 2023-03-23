@@ -362,6 +362,7 @@
 "Assets/Megapoly.Art/Vintage Controls/Scripts/ButtonLamp.cs"
 "Assets/Megapoly.Art/Vintage Controls/Scripts/ControlAnimateLights.cs"
 "Assets/Megapoly.Art/Vintage Controls/Scripts/Monitor.cs"
+"Assets/player_movement.cs"
 "Assets/polyperfect/Low Poly Animated People/- Materials/Simple Water/SimpleWater.cs"
 -langversion:9.0
 
