@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/prototype 1.33.unity
+- path: Assets/Park.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

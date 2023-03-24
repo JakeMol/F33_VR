@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unity Editor version:    2021.3.18f1 (3129e69bc0c7)
 Branch:                  2021.3/staging
 Build type:              Release
@@ -12,12 +13,22 @@ Pro License: YES
 
 COMMAND LINE ARGUMENTS:
 /Applications/Unity/Hub/Editor/2021.3.18f1/Unity.app/Contents/MacOS/Unity
+=======
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.18f1 (3129e69bc0c7) revision 3221990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'en' Physical Memory: 7903 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1-x86_64\Editor\Unity.exe
+>>>>>>> 01835ba0a3a4863257e39d95859d864d35b8a627
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 /Users/violetvanreede/Downloads/F33_VR/prototype1
 -logFile
 Logs/AssetImportWorker0.log
@@ -25,6 +36,15 @@ Logs/AssetImportWorker0.log
 57079
 Successfully changed project path to: /Users/violetvanreede/Downloads/F33_VR/prototype1
 /Users/violetvanreede/Downloads/F33_VR/prototype1
+=======
+C:/Users/molja/Documents/GitHub/F33_VR/prototype1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58640
+Successfully changed project path to: C:/Users/molja/Documents/GitHub/F33_VR/prototype1
+C:/Users/molja/Documents/GitHub/F33_VR/prototype1
+>>>>>>> 01835ba0a3a4863257e39d95859d864d35b8a627
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -54,6 +74,7 @@ Successfully changed project path to: /Users/violetvanreede/Downloads/F33_VR/pro
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [4402693504] Host "[IP] 10.192.85.219 [Port] 0 [Flags] 2 [Guid] 3198425947 [EditorId] 3198425947 [Version] 1048832 [Id] OSXEditor(0,Violets-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
 Player connection [4402693504] Host "[IP] 10.192.85.219 [Port] 0 [Flags] 2 [Guid] 3198425947 [EditorId] 3198425947 [Version] 1048832 [Id] OSXEditor(0,Violets-MacBook-Air.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
@@ -88,10 +109,48 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (490ms)
 		BeginReloadAssembly (67ms)
+=======
+Player connection [12688] Host "[IP] 10.78.63.42 [Port] 0 [Flags] 2 [Guid] 2365562905 [EditorId] 2365562905 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QAJEPTE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [12688] Host "[IP] 10.78.63.42 [Port] 0 [Flags] 2 [Guid] 2365562905 [EditorId] 2365562905 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QAJEPTE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 340.55 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1-x86_64/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/molja/Documents/GitHub/F33_VR/prototype1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x46a8)
+    Vendor:   Intel
+    VRAM:     3951 MB
+    Driver:   31.0.101.3889
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1-x86_64/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1-x86_64/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1-x86_64/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.006657 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 82.65 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.761 seconds
+Domain Reload Profiling:
+	ReloadAssembly (762ms)
+		BeginReloadAssembly (128ms)
+>>>>>>> 01835ba0a3a4863257e39d95859d864d35b8a627
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (0ms)
 		EndReloadAssembly (343ms)
 			LoadAssemblies (68ms)
@@ -107,12 +166,30 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (85ms)
 				ProcessInitializeOnLoadMethodAttributes (25ms)
+=======
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (523ms)
+			LoadAssemblies (128ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (103ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (340ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (83ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (62ms)
+>>>>>>> 01835ba0a3a4863257e39d95859d864d35b8a627
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.004102 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
@@ -1119,3 +1196,6 @@ Received Import Request.
   path: Assets/player_movement.cs
   artifactKey: Guid(8cc91b7b5ba4b42d8a9d54f069c75afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/player_movement.cs using Guid(8cc91b7b5ba4b42d8a9d54f069c75afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66159d8acab14420103b22c8f7574e7d') in 1.429886 seconds 
+=======
+Registered in 0.018829 seconds.
+>>>>>>> 01835ba0a3a4863257e39d95859d864d35b8a627
