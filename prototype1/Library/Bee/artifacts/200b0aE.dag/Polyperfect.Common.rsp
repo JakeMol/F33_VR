@@ -332,11 +332,22 @@
 -r:"/Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"/Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll"
 -r:"/Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+<<<<<<< Updated upstream
 -r:"Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/polyperfect/Common/Common_PlaySound.cs"
 "Assets/polyperfect/Common/Common_RandomInt.cs"
+=======
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/polyperfect/Common/Common_AnimationControl.cs"
+"Assets/polyperfect/Common/Common_AnimSpeed.cs"
+"Assets/polyperfect/Common/Common_KillSwitch.cs"
+"Assets/polyperfect/Common/Common_PlaySound.cs"
+"Assets/polyperfect/Common/Common_RandomInt.cs"
+"Assets/polyperfect/Common/RandomCharacterPlacer.cs"
+>>>>>>> Stashed changes
 "Assets/polyperfect/Common/Wander Script/AIState.cs"
 "Assets/polyperfect/Common/Wander Script/AIStats.cs"
 "Assets/polyperfect/Common/Wander Script/Common_AudioManager.cs"

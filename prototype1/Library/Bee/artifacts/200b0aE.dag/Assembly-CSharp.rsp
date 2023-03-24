@@ -322,6 +322,7 @@
 -r:"/Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"/Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"/Users/violetvanreede/Downloads/F33_VR/prototype1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+<<<<<<< Updated upstream
 -r:"Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Polyperfect.Common.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Polyperfect.People.ref.dll"
@@ -330,6 +331,11 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/SteamVR_Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/SteamVR_Input_Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/SteamVR_Windows_EditorHelper.ref.dll"
+=======
+-r:"Library/Bee/artifacts/200b0aE.dag/Polyperfect.Common.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Polyperfect.People.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Purchasing.Common.ref.dll"
+>>>>>>> Stashed changes
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -339,7 +345,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.Environments.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.ref.dll"
+<<<<<<< Updated upstream
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Subsystem.Registration.ref.dll"
+=======
+>>>>>>> Stashed changes
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
@@ -357,6 +366,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
+<<<<<<< Updated upstream
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Management.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.Management.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.XR.OpenVR.Editor.ref.dll"
@@ -365,11 +375,16 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.XR.LegacyInputHelpers.ref.dll"
+=======
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.Purchasing.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
+>>>>>>> Stashed changes
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.Codeless.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.SecurityCore.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.SecurityStub.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.Stores.ref.dll"
+<<<<<<< Updated upstream
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
@@ -409,6 +424,13 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
+=======
+-r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Megapoly.Art/Vintage Controls/Scripts/ButtonLamp.cs"
+"Assets/Megapoly.Art/Vintage Controls/Scripts/ControlAnimateLights.cs"
+"Assets/Megapoly.Art/Vintage Controls/Scripts/Monitor.cs"
+"Assets/polyperfect/Low Poly Animated People/- Materials/Simple Water/SimpleWater.cs"
+>>>>>>> Stashed changes
 -langversion:9.0
 
 /deterministic

@@ -5,14 +5,20 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638152143490000000
     m_Hash: 2536477797
+=======
+      ticks: 638145831680000000
+    m_Hash: 2585530152
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: /Users/violetvanreede/Downloads/F33_VR/prototype1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638152143490000000
     m_Hash: 837578523
 m_EmbeddedPackageManifests:
@@ -33,6 +39,14 @@ m_LocalPackages:
       serializedVersion: 2
       ticks: 638152143470000000
     m_Hash: 2919789393
+=======
+      ticks: 638145831680000000
+    m_Hash: 2243097667
+m_EmbeddedPackageManifests:
+  m_ManifestsStatus: {}
+m_LocalPackages:
+  m_LocalFileStatus: []
+>>>>>>> Stashed changes
 m_ProjectPath: /Users/violetvanreede/Downloads/F33_VR/prototype1/Packages
 m_EditorVersion: 2021.3.18f1 (3129e69bc0c7)
 m_ResolvedPackages:
@@ -574,11 +588,9 @@ m_ResolvedPackages:
     - 4.5.1
     - 4.5.2
     - 4.6.0
-    - 4.7.0
     compatible:
     - 4.5.2
     - 4.6.0
-    - 4.7.0
     verified: 4.5.2
   dependencies:
   - name: com.unity.ugui
